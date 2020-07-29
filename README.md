@@ -4,7 +4,7 @@ I'm a `web developer`.
 
 - 😄 I've developed apps and applications using PHP, Laravel, Ionic, Angular, CSS, JS and C.
 - ⚡ I am currently working on some (yet) private projects that soon will be released.
-- 💬 Ask me about anything you want
+- 💬 I'm available for you to contact me
 - 📫 You can reach me: dev@wesleygoncalves.com
 <!--
 **WesleyGoncalves/wesleygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

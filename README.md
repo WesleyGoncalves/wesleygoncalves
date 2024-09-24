@@ -1,14 +1,15 @@
 ### Hi, I'm Wesley 👋
 
-I'm a `web developer`. 
+Collaborative, proactive software developer committed to delivering results and eager to learn.
 
-- 😄 I've developed apps and applications using PHP, Laravel, Ionic, Angular, CSS, JS and C.
+Over the years, I have developed web, desktop, and mobile applications using several popular languages, such as **C, PHP, Python, Java, and JavaScript**, and worked with major frameworks like **Laravel, Flask, Angular, and Bootstrap**. I have also used tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also become familiar with some **Linux Ubuntu** commands.
+
+For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
+<!--
+**WesleyGoncalves/wesleygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I've developed mobile apps and web/desktop applications. 
 - 💬 I'm available for you to contact me
 - 📫 You can reach me at dev@wesleygoncalves.com
-<!--
-- ⚡ I am currently working on some (yet) private projects that soon will be released.
-
-**WesleyGoncalves/wesleygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

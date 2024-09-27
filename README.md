@@ -1,10 +1,15 @@
 ### Hi, I'm Wesley 👋
 
-Collaborative, proactive software developer committed to delivering results and eager to learn.
-
-Over the years, I have developed web, desktop, and mobile applications using several popular languages, such as **C, PHP, Python, Java, and JavaScript**, and worked with major frameworks like **Laravel, Flask, Angular, and Bootstrap**. I have also used tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also become familiar with some **Linux Ubuntu** commands.
+Over the years, I have developed web, desktop, and mobile applications in several popular languages such as **C, PHP, Python, Java, and JavaScript**, while working with major frameworks like **Laravel, Flask, Angular, and Bootstrap**, as well as tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also become familiar with **Linux Ubuntu** commands.
 
 For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
+
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wesley-d-goncalves)
+[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8522818/wesley-gon%c3%a7alves)
+<!--
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesleygoncalves)
+
 <!--
 **WesleyGoncalves/wesleygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 I've developed mobile apps and web/desktop applications. 

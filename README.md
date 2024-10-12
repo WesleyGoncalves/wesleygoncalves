@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub stats -->
-<!-- Source: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=wesleygoncalves&show_icons=true&theme=vue-dark&hide_border=true" alt="Wesley's GitHub stats">
+<!-- Source: https://github.com/anuraghazra/github-readme-stats - ->
+    <img src="https://github-readme-stats.vercel.app/api?username=wesleygoncalves&show_icons=true&theme=vue-dark&hide_border=true" alt="Wesley's GitHub stats">
 <!-- some themes: dark, transparent, vue-dark, github_dark_dimmed, discord_old_blurple -->
 
 <!-- Pin a Repo -->

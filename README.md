@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley 👋
 
-Over the years, I have developed web, desktop, and mobile applications in several popular languages such as **C, PHP, Python, Java, and JavaScript**, while working with major frameworks like **Laravel, Flask, Angular, and Bootstrap**, as well as tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also become familiar with **Linux Ubuntu** commands.
+Over the years, I have developed web, desktop, and mobile applications in several popular languages such as **C, PHP, Python, Java, and JavaScript**, while working with major frameworks like **Laravel, Flask, Angular, and Bootstrap**, as well as tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also gained hands-on experience with **Linux Ubuntu** environment and commands.
 
 For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
 

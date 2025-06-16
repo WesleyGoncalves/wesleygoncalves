@@ -1,6 +1,27 @@
 ### Hi, I'm Wesley 👋
 
-Over the years, I have developed web, desktop, and mobile applications in several popular languages such as **C, PHP, Python, Java, and JavaScript**, while working with major frameworks like **Laravel, Flask, Angular, and Bootstrap**, as well as tools like **Git CLI**, **Jira**, and agile methodologies like **Scrum**. I have also gained hands-on experience with **Linux Ubuntu** environment and commands.
+I love coding, so I've developed web, desktop, and mobile applications in several popular languages such as
+
+- C,
+- PHP,
+- Python,
+- Java
+- JavaScript
+- TypeScript
+
+using major frameworks like
+
+- Laravel
+- Flask
+- React
+- Angular
+- Bootstrap
+- Ionic
+- ExpressJS
+  
+as well as tools like **Git CLI**, **Docker**, **Jira**, and agile methodologies like **Scrum**. 
+
+I work daily in a **Linux Ubuntu** environment, where I’m comfortable using the terminal, scripting, and managing development tools and containers.
 
 For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
 
@@ -28,11 +49,20 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-
-<!-- GitHub stats -->
-<!-- Source: https://github.com/anuraghazra/github-readme-stats - ->
+<!--
+<p align="center">
+    <!-- GitHub stats -->
+    <!--Source: https://github.com/anuraghazra/github-readme-stats-->
     <img src="https://github-readme-stats.vercel.app/api?username=wesleygoncalves&show_icons=true&theme=vue-dark&hide_border=true" alt="Wesley's GitHub stats">
-<!-- some themes: dark, transparent, vue-dark, github_dark_dimmed, discord_old_blurple -->
+    <!-- some themes: dark, transparent, vue-dark, github_dark_dimmed, discord_old_blurple -->
+    <!-- -------------------------------------------------------------------------------------------------------------------------------------------------- -->
+    <!-- Streak Stats -->
+    <!-- Source: https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img src="https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) -->
+<!--
+</p>
+-->
 
 <!-- Pin a Repo -->
 <!-- 
@@ -45,13 +75,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygoncalves&layout=compact)
 -->
 
-<!-- Streak Stats -->
-<!-- Source: https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
--->
-<!-- hide_current_streak=true, hide_longest_streak=true -->
+
+<!-- hide_current_streak=true, hide_longest_streak=true - ->
 <details>
   <summary>:zap: S</summary>
 </details>
+-->
 

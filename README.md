@@ -51,15 +51,17 @@ Here are some ideas to get you started:
 
 <!--
 <p align="center">
-    <!-- GitHub stats -->
-    <!--Source: https://github.com/anuraghazra/github-readme-stats-->
-    <img src="https://github-readme-stats.vercel.app/api?username=wesleygoncalves&show_icons=true&theme=vue-dark&hide_border=true" alt="Wesley's GitHub stats">
-    <!-- some themes: dark, transparent, vue-dark, github_dark_dimmed, discord_old_blurple -->
-    <!-- -------------------------------------------------------------------------------------------------------------------------------------------------- -->
-    <!-- Streak Stats -->
-    <!-- Source: https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img src="https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-    <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) -->
+<!-- GitHub stats -->
+<!--Source: https://github.com/anuraghazra/github-readme-stats-->
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=wesleygoncalves&show_icons=true&theme=vue-dark&hide_border=true" alt="Wesley's GitHub stats">
+<!-- some themes: dark, transparent, vue-dark, github_dark_dimmed, discord_old_blurple -->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Streak Stats -->
+<!-- Source: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!--
+<img src="https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true" alt="GitHub Streak">
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=wesleygoncalves&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) -->
 <!--
 </p>
 -->

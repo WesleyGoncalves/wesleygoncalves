@@ -139,3 +139,9 @@ Here are some ideas to get you started:
 </details>
 -->
 
+<!-- Visitors count -->
+<div align="center">
+  <!-- since 2025-06-17 -->
+  <img src="https://profile-counter.glitch.me/WesleyGoncalves/count.svg?" width="1" height="1" />
+  <img src="https://komarev.com/ghpvc/?username=WesleyGoncalves" width="1" height="1" />
+</div>

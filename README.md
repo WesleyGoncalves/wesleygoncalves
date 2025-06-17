@@ -41,7 +41,7 @@ using major frameworks like
 
 as well as tools like **Git CLI**, **Docker**, **Jira**, and agile methodologies like **Scrum**. 
 
-I work daily in a **Linux Ubuntu** environment, where I’m comfortable using the terminal and managing tools through the command line.
+I work daily in a **Linux Ubuntu** environment, where I’m comfortable handling tasks and tools via the command line. 🐧
 
 For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
 

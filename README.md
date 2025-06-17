@@ -6,14 +6,24 @@ I love coding, so I've developed web, desktop, and mobile applications in severa
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40">
   <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
+  |
+  <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40">
+  <img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 5px;">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40">
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
+  |
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40">
+  <img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40">
+  <img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40">
 </p>
 
-- C,
-- PHP,
-- Python,
+- C
+- PHP
+- Python
 - Java
 - JavaScript
 - TypeScript
@@ -31,7 +41,7 @@ using major frameworks like
 
 as well as tools like **Git CLI**, **Docker**, **Jira**, and agile methodologies like **Scrum**. 
 
-I work daily in a **Linux Ubuntu** environment, where I’m comfortable using the terminal, scripting, and managing development tools and containers.
+I work daily in a **Linux Ubuntu** environment, where I’m comfortable using the terminal and managing tools through the command line.
 
 For more details on my work and experience, please check my [LinkedIn](www.linkedin.com/in/wesley-d-goncalves) and [GitHub](https://github.com/WesleyGoncalves) profiles.
 
